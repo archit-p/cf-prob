@@ -1,0 +1,23 @@
+name: Generate Stats
+on: [push]
+
+jobs:
+  build:
+    name: Generate Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Run plot script
+        run: |
+          pip3 install -r ./scripts/requirements.txt
+          python3 ./scripts/plot.py
+          ls -l
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "Auto update stats.png"
+          author_name: Github Actions Bot
+          author_email: actions@github.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
