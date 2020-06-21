@@ -26,10 +26,10 @@ No.|Index|Name|Rating|Status
 24|[919D](http://codeforces.com/problemset/problem/919/D)|[Substring](http://codeforces.com/problemset/problem/919/D)|1700|
 25|[1041D](http://codeforces.com/problemset/problem/1041/D)|[Glider](http://codeforces.com/problemset/problem/1041/D)|1700|
 26|[732D](http://codeforces.com/problemset/problem/732/D)|[Exams](http://codeforces.com/problemset/problem/732/D)|1700|
-27|[1215D](http://codeforces.com/problemset/problem/1215/D)|[Ticket Game](http://codeforces.com/problemset/problem/1215/D)|1700|
-28|[617D](http://codeforces.com/problemset/problem/617/D)|[Polyline](http://codeforces.com/problemset/problem/617/D)|1700|
-29|[734D](http://codeforces.com/problemset/problem/734/D)|[Anton and Chess](http://codeforces.com/problemset/problem/734/D)|1700|
-30|[761D](http://codeforces.com/problemset/problem/761/D)|[Dasha and Very Difficult Problem](http://codeforces.com/problemset/problem/761/D)|1700|
+27|[1215D](http://codeforces.com/problemset/problem/1215/D)|[Ticket Game](http://codeforces.com/problemset/problem/1215/D)|1700|Yes
+28|[617D](http://codeforces.com/problemset/problem/617/D)|[Polyline](http://codeforces.com/problemset/problem/617/D)|1700|Yes
+29|[734D](http://codeforces.com/problemset/problem/734/D)|[Anton and Chess](http://codeforces.com/problemset/problem/734/D)|1700|Yes
+30|[761D](http://codeforces.com/problemset/problem/761/D)|[Dasha and Very Difficult Problem](http://codeforces.com/problemset/problem/761/D)|1700|Yes
 31|[1038D](http://codeforces.com/problemset/problem/1038/D)|[Slime](http://codeforces.com/problemset/problem/1038/D)|1800|
 32|[706D](http://codeforces.com/problemset/problem/706/D)|[Vasiliy's Multiset](http://codeforces.com/problemset/problem/706/D)|1800|
 33|[1244D](http://codeforces.com/problemset/problem/1244/D)|[Paint the Tree](http://codeforces.com/problemset/problem/1244/D)|1800|
