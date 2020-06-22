@@ -21,11 +21,11 @@ No.|Index|Name|Rating|Status
 19|[1365D](http://codeforces.com/problemset/problem/1365/D)|[Solve The Maze](http://codeforces.com/problemset/problem/1365/D)|1700|
 20|[1325D](http://codeforces.com/problemset/problem/1325/D)|[Ehab the Xorcist](http://codeforces.com/problemset/problem/1325/D)|1700|
 21|[1332D](http://codeforces.com/problemset/problem/1332/D)|[Walk on Matrix](http://codeforces.com/problemset/problem/1332/D)|1700|
-22|[1253D](http://codeforces.com/problemset/problem/1253/D)|[Harmonious Graph](http://codeforces.com/problemset/problem/1253/D)|1700|
-23|[1185D](http://codeforces.com/problemset/problem/1185/D)|[Extra Element](http://codeforces.com/problemset/problem/1185/D)|1700|
-24|[919D](http://codeforces.com/problemset/problem/919/D)|[Substring](http://codeforces.com/problemset/problem/919/D)|1700|
-25|[1041D](http://codeforces.com/problemset/problem/1041/D)|[Glider](http://codeforces.com/problemset/problem/1041/D)|1700|
-26|[732D](http://codeforces.com/problemset/problem/732/D)|[Exams](http://codeforces.com/problemset/problem/732/D)|1700|
+22|[1253D](http://codeforces.com/problemset/problem/1253/D)|[Harmonious Graph](http://codeforces.com/problemset/problem/1253/D)|1700|Yes
+23|[1185D](http://codeforces.com/problemset/problem/1185/D)|[Extra Element](http://codeforces.com/problemset/problem/1185/D)|1700|Yes
+24|[919D](http://codeforces.com/problemset/problem/919/D)|[Substring](http://codeforces.com/problemset/problem/919/D)|1700|Yes
+25|[1041D](http://codeforces.com/problemset/problem/1041/D)|[Glider](http://codeforces.com/problemset/problem/1041/D)|1700|Yes
+26|[732D](http://codeforces.com/problemset/problem/732/D)|[Exams](http://codeforces.com/problemset/problem/732/D)|1700|Yes
 27|[1215D](http://codeforces.com/problemset/problem/1215/D)|[Ticket Game](http://codeforces.com/problemset/problem/1215/D)|1700|Yes
 28|[617D](http://codeforces.com/problemset/problem/617/D)|[Polyline](http://codeforces.com/problemset/problem/617/D)|1700|Yes
 29|[734D](http://codeforces.com/problemset/problem/734/D)|[Anton and Chess](http://codeforces.com/problemset/problem/734/D)|1700|Yes
