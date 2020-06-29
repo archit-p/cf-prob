@@ -31,10 +31,10 @@ No.|Index|Name|Rating|Status
 29|[1003D](http://codeforces.com/problemset/problem/1003/D)|[Coins and Queries](http://codeforces.com/problemset/problem/1003/D)|1600|Yes
 30|[1077D](http://codeforces.com/problemset/problem/1077/D)|[Cutting Out](http://codeforces.com/problemset/problem/1077/D)|1600|Yes
 31|[1343D](http://codeforces.com/problemset/problem/1343/D)|[Constant Palindrome Sum](http://codeforces.com/problemset/problem/1343/D)|1700|Yes
-32|[1203D](http://codeforces.com/problemset/problem/1203/D2)|[Remove the Substring (hard version)](http://codeforces.com/problemset/problem/1203/D2)|1700|
+32|[1203D](http://codeforces.com/problemset/problem/1203/D2)|[Remove the Substring (hard version)](http://codeforces.com/problemset/problem/1203/D2)|1700|Yes
 33|[1006D](http://codeforces.com/problemset/problem/1006/D)|[Two Strings Swaps](http://codeforces.com/problemset/problem/1006/D)|1700|Yes
-34|[1118D](http://codeforces.com/problemset/problem/1118/D2)|[Coffee and Coursework (Hard Version)](http://codeforces.com/problemset/problem/1118/D2)|1700|
-35|[1118D](http://codeforces.com/problemset/problem/1118/D1)|[Coffee and Coursework (Easy version)](http://codeforces.com/problemset/problem/1118/D1)|1700|
+34|[1118D](http://codeforces.com/problemset/problem/1118/D2)|[Coffee and Coursework (Hard Version)](http://codeforces.com/problemset/problem/1118/D2)|1700|Yes
+35|[1118D](http://codeforces.com/problemset/problem/1118/D1)|[Coffee and Coursework (Easy version)](http://codeforces.com/problemset/problem/1118/D1)|1700|Yes
 36|[1328D](http://codeforces.com/problemset/problem/1328/D)|[Carousel](http://codeforces.com/problemset/problem/1328/D)|1800|
 37|[1283D](http://codeforces.com/problemset/problem/1283/D)|[Christmas Trees](http://codeforces.com/problemset/problem/1283/D)|1800|
 38|[988D](http://codeforces.com/problemset/problem/988/D)|[Points and Powers of Two](http://codeforces.com/problemset/problem/988/D)|1800|
