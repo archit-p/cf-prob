@@ -19,8 +19,8 @@ No.|Index|Name|Rating|Status
 17|[940D](http://codeforces.com/problemset/problem/940/D)|[Alena And The Heater](http://codeforces.com/problemset/problem/940/D)|1600|Yes
 18|[898D](http://codeforces.com/problemset/problem/898/D)|[Alarm Clock](http://codeforces.com/problemset/problem/898/D)|1600|Yes
 19|[1365D](http://codeforces.com/problemset/problem/1365/D)|[Solve The Maze](http://codeforces.com/problemset/problem/1365/D)|1700|
-20|[1325D](http://codeforces.com/problemset/problem/1325/D)|[Ehab the Xorcist](http://codeforces.com/problemset/problem/1325/D)|1700|
-21|[1332D](http://codeforces.com/problemset/problem/1332/D)|[Walk on Matrix](http://codeforces.com/problemset/problem/1332/D)|1700|
+20|[1325D](http://codeforces.com/problemset/problem/1325/D)|[Ehab the Xorcist](http://codeforces.com/problemset/problem/1325/D)|1700|Yes
+21|[1332D](http://codeforces.com/problemset/problem/1332/D)|[Walk on Matrix](http://codeforces.com/problemset/problem/1332/D)|1700|Yes
 22|[1253D](http://codeforces.com/problemset/problem/1253/D)|[Harmonious Graph](http://codeforces.com/problemset/problem/1253/D)|1700|Yes
 23|[1185D](http://codeforces.com/problemset/problem/1185/D)|[Extra Element](http://codeforces.com/problemset/problem/1185/D)|1700|Yes
 24|[919D](http://codeforces.com/problemset/problem/919/D)|[Substring](http://codeforces.com/problemset/problem/919/D)|1700|Yes
