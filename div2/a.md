@@ -197,13 +197,13 @@ No.|Index|Name|Rating|Status
 195|[1040A](http://codeforces.com/problemset/problem/1040/A)|[Palindrome Dance](http://codeforces.com/problemset/problem/1040/A)|1000|
 196|[816A](http://codeforces.com/problemset/problem/816/A)|[Karen and Morning](http://codeforces.com/problemset/problem/816/A)|1000|
 197|[849A](http://codeforces.com/problemset/problem/849/A)|[Odds and Ends](http://codeforces.com/problemset/problem/849/A)|1000|
-198|[998A](http://codeforces.com/problemset/problem/998/A)|[Balloons](http://codeforces.com/problemset/problem/998/A)|1000|
-199|[604A](http://codeforces.com/problemset/problem/604/A)|[Uncowed Forces](http://codeforces.com/problemset/problem/604/A)|1000|
-200|[608A](http://codeforces.com/problemset/problem/608/A)|[Saitama Destroys Hotel](http://codeforces.com/problemset/problem/608/A)|1000|
-201|[909A](http://codeforces.com/problemset/problem/909/A)|[Generate Login](http://codeforces.com/problemset/problem/909/A)|1000|
-202|[844A](http://codeforces.com/problemset/problem/844/A)|[Diversity](http://codeforces.com/problemset/problem/844/A)|1000|
-203|[1084A](http://codeforces.com/problemset/problem/1084/A)|[The Fair Nut and Elevator](http://codeforces.com/problemset/problem/1084/A)|1000|
-204|[727A](http://codeforces.com/problemset/problem/727/A)|[Transformation: from A to B](http://codeforces.com/problemset/problem/727/A)|1000|
+198|[998A](http://codeforces.com/problemset/problem/998/A)|[Balloons](http://codeforces.com/problemset/problem/998/A)|1000|Yes
+199|[604A](http://codeforces.com/problemset/problem/604/A)|[Uncowed Forces](http://codeforces.com/problemset/problem/604/A)|1000|Yes
+200|[608A](http://codeforces.com/problemset/problem/608/A)|[Saitama Destroys Hotel](http://codeforces.com/problemset/problem/608/A)|1000|Yes
+201|[909A](http://codeforces.com/problemset/problem/909/A)|[Generate Login](http://codeforces.com/problemset/problem/909/A)|1000|Yes
+202|[844A](http://codeforces.com/problemset/problem/844/A)|[Diversity](http://codeforces.com/problemset/problem/844/A)|1000|Yes
+203|[1084A](http://codeforces.com/problemset/problem/1084/A)|[The Fair Nut and Elevator](http://codeforces.com/problemset/problem/1084/A)|1000|Yes
+204|[727A](http://codeforces.com/problemset/problem/727/A)|[Transformation: from A to B](http://codeforces.com/problemset/problem/727/A)|1000|Yes
 205|[1332A](http://codeforces.com/problemset/problem/1332/A)|[Exercising Walk](http://codeforces.com/problemset/problem/1332/A)|1100|Yes
 206|[1365A](http://codeforces.com/problemset/problem/1365/A)|[Matrix Game](http://codeforces.com/problemset/problem/1365/A)|1100|
 207|[651A](http://codeforces.com/problemset/problem/651/A)|[Joysticks](http://codeforces.com/problemset/problem/651/A)|1100|Yes
