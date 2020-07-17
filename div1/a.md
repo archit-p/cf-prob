@@ -27,13 +27,13 @@ No.|Index|Name|Rating|Status
 25|[708A](http://codeforces.com/problemset/problem/708/A)|[Letters Cyclic Shift](http://codeforces.com/problemset/problem/708/A)|1200|Yes
 26|[1023A](http://codeforces.com/problemset/problem/1023/A)|[Single Wildcard Pattern Matching](http://codeforces.com/problemset/problem/1023/A)|1200|Yes
 27|[960A](http://codeforces.com/problemset/problem/960/A)|[Check the string](http://codeforces.com/problemset/problem/960/A)|1200|Yes
-28|[1322A](http://codeforces.com/problemset/problem/1322/A)|[Unusual Competitions](http://codeforces.com/problemset/problem/1322/A)|1300|
-29|[1007A](http://codeforces.com/problemset/problem/1007/A)|[Reorder the Array](http://codeforces.com/problemset/problem/1007/A)|1300|
-30|[1037A](http://codeforces.com/problemset/problem/1037/A)|[Packets](http://codeforces.com/problemset/problem/1037/A)|1300|
-31|[1063A](http://codeforces.com/problemset/problem/1063/A)|[Oh Those Palindromes](http://codeforces.com/problemset/problem/1063/A)|1300|
-32|[840A](http://codeforces.com/problemset/problem/840/A)|[Leha and Function](http://codeforces.com/problemset/problem/840/A)|1300|
-33|[722A](http://codeforces.com/problemset/problem/722/A)|[Broken Clock](http://codeforces.com/problemset/problem/722/A)|1300|
-34|[634A](http://codeforces.com/problemset/problem/634/A)|[Island Puzzle](http://codeforces.com/problemset/problem/634/A)|1300|
+28|[1322A](http://codeforces.com/problemset/problem/1322/A)|[Unusual Competitions](http://codeforces.com/problemset/problem/1322/A)|1300|Yes
+29|[1007A](http://codeforces.com/problemset/problem/1007/A)|[Reorder the Array](http://codeforces.com/problemset/problem/1007/A)|1300|Yes
+30|[1037A](http://codeforces.com/problemset/problem/1037/A)|[Packets](http://codeforces.com/problemset/problem/1037/A)|1300|Yes
+31|[1063A](http://codeforces.com/problemset/problem/1063/A)|[Oh Those Palindromes](http://codeforces.com/problemset/problem/1063/A)|1300|Yes
+32|[840A](http://codeforces.com/problemset/problem/840/A)|[Leha and Function](http://codeforces.com/problemset/problem/840/A)|1300|Yes
+33|[722A](http://codeforces.com/problemset/problem/722/A)|[Broken Clock](http://codeforces.com/problemset/problem/722/A)|1300|Yes
+34|[634A](http://codeforces.com/problemset/problem/634/A)|[Island Puzzle](http://codeforces.com/problemset/problem/634/A)|1300|Yes
 35|[698A](http://codeforces.com/problemset/problem/698/A)|[Vacations](http://codeforces.com/problemset/problem/698/A)|1400|Yes
 36|[650A](http://codeforces.com/problemset/problem/650/A)|[Watchmen](http://codeforces.com/problemset/problem/650/A)|1400|
 37|[1320A](http://codeforces.com/problemset/problem/1320/A)|[Journey Planning](http://codeforces.com/problemset/problem/1320/A)|1400|
