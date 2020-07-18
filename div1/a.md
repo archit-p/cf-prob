@@ -42,9 +42,9 @@ No.|Index|Name|Rating|Status
 40|[679A](http://codeforces.com/problemset/problem/679/A)|[Bear and Prime 100](http://codeforces.com/problemset/problem/679/A)|1400|
 41|[1190A](http://codeforces.com/problemset/problem/1190/A)|[Tokitsukaze and Discard Items](http://codeforces.com/problemset/problem/1190/A)|1400|
 42|[1103A](http://codeforces.com/problemset/problem/1103/A)|[Grid game](http://codeforces.com/problemset/problem/1103/A)|1400|Yes
-43|[713A](http://codeforces.com/problemset/problem/713/A)|[Sonya and Queries](http://codeforces.com/problemset/problem/713/A)|1400|
-44|[1214A](http://codeforces.com/problemset/problem/1214/A)|[Optimal Currency Exchange](http://codeforces.com/problemset/problem/1214/A)|1400|
-45|[843A](http://codeforces.com/problemset/problem/843/A)|[Sorting by Subsequences](http://codeforces.com/problemset/problem/843/A)|1400|
+43|[713A](http://codeforces.com/problemset/problem/713/A)|[Sonya and Queries](http://codeforces.com/problemset/problem/713/A)|1400|Yes
+44|[1214A](http://codeforces.com/problemset/problem/1214/A)|[Optimal Currency Exchange](http://codeforces.com/problemset/problem/1214/A)|1400|Yes
+45|[843A](http://codeforces.com/problemset/problem/843/A)|[Sorting by Subsequences](http://codeforces.com/problemset/problem/843/A)|1400|Yes
 46|[1338A](http://codeforces.com/problemset/problem/1338/A)|[Powered Addition](http://codeforces.com/problemset/problem/1338/A)|1500|Yes
 47|[1340A](http://codeforces.com/problemset/problem/1340/A)|[Nastya and Strange Generator](http://codeforces.com/problemset/problem/1340/A)|1500|
 48|[687A](http://codeforces.com/problemset/problem/687/A)|[NP-Hard Problem](http://codeforces.com/problemset/problem/687/A)|1500|
