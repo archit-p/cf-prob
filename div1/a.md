@@ -35,12 +35,12 @@ No.|Index|Name|Rating|Status
 33|[722A](http://codeforces.com/problemset/problem/722/A)|[Broken Clock](http://codeforces.com/problemset/problem/722/A)|1300|Yes
 34|[634A](http://codeforces.com/problemset/problem/634/A)|[Island Puzzle](http://codeforces.com/problemset/problem/634/A)|1300|Yes
 35|[698A](http://codeforces.com/problemset/problem/698/A)|[Vacations](http://codeforces.com/problemset/problem/698/A)|1400|Yes
-36|[650A](http://codeforces.com/problemset/problem/650/A)|[Watchmen](http://codeforces.com/problemset/problem/650/A)|1400|
-37|[1320A](http://codeforces.com/problemset/problem/1320/A)|[Journey Planning](http://codeforces.com/problemset/problem/1320/A)|1400|
+36|[650A](http://codeforces.com/problemset/problem/650/A)|[Watchmen](http://codeforces.com/problemset/problem/650/A)|1400|Yes
+37|[1320A](http://codeforces.com/problemset/problem/1320/A)|[Journey Planning](http://codeforces.com/problemset/problem/1320/A)|1400|Yes
 38|[1292A](http://codeforces.com/problemset/problem/1292/A)|[NEKO's Maze Game](http://codeforces.com/problemset/problem/1292/A)|1400|Yes
-39|[1276A](http://codeforces.com/problemset/problem/1276/A)|[As Simple as One and Two](http://codeforces.com/problemset/problem/1276/A)|1400|
-40|[679A](http://codeforces.com/problemset/problem/679/A)|[Bear and Prime 100](http://codeforces.com/problemset/problem/679/A)|1400|
-41|[1190A](http://codeforces.com/problemset/problem/1190/A)|[Tokitsukaze and Discard Items](http://codeforces.com/problemset/problem/1190/A)|1400|
+39|[1276A](http://codeforces.com/problemset/problem/1276/A)|[As Simple as One and Two](http://codeforces.com/problemset/problem/1276/A)|1400|Yes
+40|[679A](http://codeforces.com/problemset/problem/679/A)|[Bear and Prime 100](http://codeforces.com/problemset/problem/679/A)|1400|Yes
+41|[1190A](http://codeforces.com/problemset/problem/1190/A)|[Tokitsukaze and Discard Items](http://codeforces.com/problemset/problem/1190/A)|1400|Yes
 42|[1103A](http://codeforces.com/problemset/problem/1103/A)|[Grid game](http://codeforces.com/problemset/problem/1103/A)|1400|Yes
 43|[713A](http://codeforces.com/problemset/problem/713/A)|[Sonya and Queries](http://codeforces.com/problemset/problem/713/A)|1400|Yes
 44|[1214A](http://codeforces.com/problemset/problem/1214/A)|[Optimal Currency Exchange](http://codeforces.com/problemset/problem/1214/A)|1400|Yes
