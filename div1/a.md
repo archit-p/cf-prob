@@ -59,8 +59,8 @@ No.|Index|Name|Rating|Status
 57|[853A](http://codeforces.com/problemset/problem/853/A)|[Planning](http://codeforces.com/problemset/problem/853/A)|1500|
 58|[1012A](http://codeforces.com/problemset/problem/1012/A)|[Photo of The Sky](http://codeforces.com/problemset/problem/1012/A)|1500|
 59|[696A](http://codeforces.com/problemset/problem/696/A)|[Lorenzo Von Matterhorn](http://codeforces.com/problemset/problem/696/A)|1500|
-60|[930A](http://codeforces.com/problemset/problem/930/A)|[Peculiar apple-tree](http://codeforces.com/problemset/problem/930/A)|1500|
-61|[1158A](http://codeforces.com/problemset/problem/1158/A)|[The Party and Sweets](http://codeforces.com/problemset/problem/1158/A)|1500|
+60|[930A](http://codeforces.com/problemset/problem/930/A)|[Peculiar apple-tree](http://codeforces.com/problemset/problem/930/A)|1500|Yes
+61|[1158A](http://codeforces.com/problemset/problem/1158/A)|[The Party and Sweets](http://codeforces.com/problemset/problem/1158/A)|1500|Yes
 62|[901A](http://codeforces.com/problemset/problem/901/A)|[Hashing Trees](http://codeforces.com/problemset/problem/901/A)|1500|Yes
 63|[809A](http://codeforces.com/problemset/problem/809/A)|[Do you want a date?](http://codeforces.com/problemset/problem/809/A)|1500|Yes
 64|[1336A](http://codeforces.com/problemset/problem/1336/A)|[Linova and Kingdom](http://codeforces.com/problemset/problem/1336/A)|1600|Yes
