@@ -56,9 +56,9 @@ No.|Index|Name|Rating|Status
 54|[891A](http://codeforces.com/problemset/problem/891/A)|[Pride](http://codeforces.com/problemset/problem/891/A)|1500|
 55|[997A](http://codeforces.com/problemset/problem/997/A)|[Convert to Ones](http://codeforces.com/problemset/problem/997/A)|1500|
 56|[744A](http://codeforces.com/problemset/problem/744/A)|[Hongcow Builds A Nation](http://codeforces.com/problemset/problem/744/A)|1500|
-57|[853A](http://codeforces.com/problemset/problem/853/A)|[Planning](http://codeforces.com/problemset/problem/853/A)|1500|
-58|[1012A](http://codeforces.com/problemset/problem/1012/A)|[Photo of The Sky](http://codeforces.com/problemset/problem/1012/A)|1500|
-59|[696A](http://codeforces.com/problemset/problem/696/A)|[Lorenzo Von Matterhorn](http://codeforces.com/problemset/problem/696/A)|1500|
+57|[853A](http://codeforces.com/problemset/problem/853/A)|[Planning](http://codeforces.com/problemset/problem/853/A)|1500|Yes
+58|[1012A](http://codeforces.com/problemset/problem/1012/A)|[Photo of The Sky](http://codeforces.com/problemset/problem/1012/A)|1500|Yes
+59|[696A](http://codeforces.com/problemset/problem/696/A)|[Lorenzo Von Matterhorn](http://codeforces.com/problemset/problem/696/A)|1500|Yes
 60|[930A](http://codeforces.com/problemset/problem/930/A)|[Peculiar apple-tree](http://codeforces.com/problemset/problem/930/A)|1500|Yes
 61|[1158A](http://codeforces.com/problemset/problem/1158/A)|[The Party and Sweets](http://codeforces.com/problemset/problem/1158/A)|1500|Yes
 62|[901A](http://codeforces.com/problemset/problem/901/A)|[Hashing Trees](http://codeforces.com/problemset/problem/901/A)|1500|Yes
