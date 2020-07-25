@@ -52,8 +52,8 @@ No.|Index|Name|Rating|Status
 50|[1299A](http://codeforces.com/problemset/problem/1299/A)|[Anu Has a Function](http://codeforces.com/problemset/problem/1299/A)|1500|
 51|[1264A](http://codeforces.com/problemset/problem/1264/A)|[Beautiful Regional Contest](http://codeforces.com/problemset/problem/1264/A)|1500|
 52|[1179A](http://codeforces.com/problemset/problem/1179/A)|[Valeriy and Deque](http://codeforces.com/problemset/problem/1179/A)|1500|
-53|[1010A](http://codeforces.com/problemset/problem/1010/A)|[Fly](http://codeforces.com/problemset/problem/1010/A)|1500|
-54|[891A](http://codeforces.com/problemset/problem/891/A)|[Pride](http://codeforces.com/problemset/problem/891/A)|1500|
+53|[1010A](http://codeforces.com/problemset/problem/1010/A)|[Fly](http://codeforces.com/problemset/problem/1010/A)|1500|Yes
+54|[891A](http://codeforces.com/problemset/problem/891/A)|[Pride](http://codeforces.com/problemset/problem/891/A)|1500|Yes
 55|[997A](http://codeforces.com/problemset/problem/997/A)|[Convert to Ones](http://codeforces.com/problemset/problem/997/A)|1500|Yes
 56|[744A](http://codeforces.com/problemset/problem/744/A)|[Hongcow Builds A Nation](http://codeforces.com/problemset/problem/744/A)|1500|Yes
 57|[853A](http://codeforces.com/problemset/problem/853/A)|[Planning](http://codeforces.com/problemset/problem/853/A)|1500|Yes
