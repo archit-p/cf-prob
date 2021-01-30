@@ -1,11 +1,11 @@
 No.|Index|Name|Rating|Status
 :-:|:-:|:-:|:-:|:-:
-1|[791A](http://codeforces.com/problemset/problem/791/A)|[Bear and Big Brother](http://codeforces.com/problemset/problem/791/A)|800|
-2|[617A](http://codeforces.com/problemset/problem/617/A)|[Elephant](http://codeforces.com/problemset/problem/617/A)|800|
-3|[734A](http://codeforces.com/problemset/problem/734/A)|[Anton and Danik](http://codeforces.com/problemset/problem/734/A)|800|
-4|[677A](http://codeforces.com/problemset/problem/677/A)|[Vanya and Fence](http://codeforces.com/problemset/problem/677/A)|800|
-5|[705A](http://codeforces.com/problemset/problem/705/A)|[Hulk](http://codeforces.com/problemset/problem/705/A)|800|
-6|[785A](http://codeforces.com/problemset/problem/785/A)|[Anton and Polyhedrons](http://codeforces.com/problemset/problem/785/A)|800|
+1|[791A](http://codeforces.com/problemset/problem/791/A)|[Bear and Big Brother](http://codeforces.com/problemset/problem/791/A)|800|Yes
+2|[617A](http://codeforces.com/problemset/problem/617/A)|[Elephant](http://codeforces.com/problemset/problem/617/A)|800|Yes
+3|[734A](http://codeforces.com/problemset/problem/734/A)|[Anton and Danik](http://codeforces.com/problemset/problem/734/A)|800|Yes
+4|[677A](http://codeforces.com/problemset/problem/677/A)|[Vanya and Fence](http://codeforces.com/problemset/problem/677/A)|800|Yes
+5|[705A](http://codeforces.com/problemset/problem/705/A)|[Hulk](http://codeforces.com/problemset/problem/705/A)|800|Yes
+6|[785A](http://codeforces.com/problemset/problem/785/A)|[Anton and Polyhedrons](http://codeforces.com/problemset/problem/785/A)|800|Yes
 7|[996A](http://codeforces.com/problemset/problem/996/A)|[Hit the Lottery](http://codeforces.com/problemset/problem/996/A)|800|
 8|[732A](http://codeforces.com/problemset/problem/732/A)|[Buy a Shovel](http://codeforces.com/problemset/problem/732/A)|800|
 9|[758A](http://codeforces.com/problemset/problem/758/A)|[Holiday Of Equality](http://codeforces.com/problemset/problem/758/A)|800|
