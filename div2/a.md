@@ -157,10 +157,10 @@ No.|Index|Name|Rating|Status
 155|[631A](http://codeforces.com/problemset/problem/631/A)|[Interview](http://codeforces.com/problemset/problem/631/A)|900|
 156|[820A](http://codeforces.com/problemset/problem/820/A)|[Mister B and Book Reading](http://codeforces.com/problemset/problem/820/A)|900|
 157|[975A](http://codeforces.com/problemset/problem/975/A)|[Aramic script](http://codeforces.com/problemset/problem/975/A)|900|
-158|[1333A](http://codeforces.com/problemset/problem/1333/A)|[Little Artem](http://codeforces.com/problemset/problem/1333/A)|1000|
-159|[742A](http://codeforces.com/problemset/problem/742/A)|[Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/problemset/problem/742/A)|1000|
-160|[1362A](http://codeforces.com/problemset/problem/1362/A)|[Johnny and Ancient Computer](http://codeforces.com/problemset/problem/1362/A)|1000|
-161|[766A](http://codeforces.com/problemset/problem/766/A)|[Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/problemset/problem/766/A)|1000|
+158|[1333A](http://codeforces.com/problemset/problem/1333/A)|[Little Artem](http://codeforces.com/problemset/problem/1333/A)|1000|Yes
+159|[742A](http://codeforces.com/problemset/problem/742/A)|[Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/problemset/problem/742/A)|1000|Yes
+160|[1362A](http://codeforces.com/problemset/problem/1362/A)|[Johnny and Ancient Computer](http://codeforces.com/problemset/problem/1362/A)|1000|Yes
+161|[766A](http://codeforces.com/problemset/problem/766/A)|[Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/problemset/problem/766/A)|1000|Yes
 162|[1182A](http://codeforces.com/problemset/problem/1182/A)|[Filling Shapes](http://codeforces.com/problemset/problem/1182/A)|1000|
 163|[733A](http://codeforces.com/problemset/problem/733/A)|[Grasshopper And the String](http://codeforces.com/problemset/problem/733/A)|1000|
 164|[798A](http://codeforces.com/problemset/problem/798/A)|[Mike and palindrome](http://codeforces.com/problemset/problem/798/A)|1000|Yes
