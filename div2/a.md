@@ -119,10 +119,10 @@ No.|Index|Name|Rating|Status
 117|[658A](http://codeforces.com/problemset/problem/658/A)|[Bear and Reverse Radewoosh](http://codeforces.com/problemset/problem/658/A)|800|
 118|[1075A](http://codeforces.com/problemset/problem/1075/A)|[The King's Race](http://codeforces.com/problemset/problem/1075/A)|800|
 119|[1341A](http://codeforces.com/problemset/problem/1341/A)|[Nastya and Rice](http://codeforces.com/problemset/problem/1341/A)|900|Yes
-120|[1339A](http://codeforces.com/problemset/problem/1339/A)|[Filling Diamonds](http://codeforces.com/problemset/problem/1339/A)|900|
-121|[1350A](http://codeforces.com/problemset/problem/1350/A)|[Orac and Factors](http://codeforces.com/problemset/problem/1350/A)|900|
-122|[1330A](http://codeforces.com/problemset/problem/1330/A)|[Dreamoon and Ranking Collection](http://codeforces.com/problemset/problem/1330/A)|900|
-123|[621A](http://codeforces.com/problemset/problem/621/A)|[Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A)|900|
+120|[1339A](http://codeforces.com/problemset/problem/1339/A)|[Filling Diamonds](http://codeforces.com/problemset/problem/1339/A)|900|Yes
+121|[1350A](http://codeforces.com/problemset/problem/1350/A)|[Orac and Factors](http://codeforces.com/problemset/problem/1350/A)|900|Yes
+122|[1330A](http://codeforces.com/problemset/problem/1330/A)|[Dreamoon and Ranking Collection](http://codeforces.com/problemset/problem/1330/A)|900|Yes
+123|[621A](http://codeforces.com/problemset/problem/621/A)|[Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A)|900|Yes
 124|[709A](http://codeforces.com/problemset/problem/709/A)|[Juicer](http://codeforces.com/problemset/problem/709/A)|900|
 125|[1291A](http://codeforces.com/problemset/problem/1291/A)|[Even But Not Even](http://codeforces.com/problemset/problem/1291/A)|900|
 126|[670A](http://codeforces.com/problemset/problem/670/A)|[Holidays](http://codeforces.com/problemset/problem/670/A)|900|
