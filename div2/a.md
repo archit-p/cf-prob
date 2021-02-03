@@ -205,13 +205,13 @@ No.|Index|Name|Rating|Status
 203|[1084A](http://codeforces.com/problemset/problem/1084/A)|[The Fair Nut and Elevator](http://codeforces.com/problemset/problem/1084/A)|1000|Yes
 204|[727A](http://codeforces.com/problemset/problem/727/A)|[Transformation: from A to B](http://codeforces.com/problemset/problem/727/A)|1000|Yes
 205|[1332A](http://codeforces.com/problemset/problem/1332/A)|[Exercising Walk](http://codeforces.com/problemset/problem/1332/A)|1100|Yes
-206|[1365A](http://codeforces.com/problemset/problem/1365/A)|[Matrix Game](http://codeforces.com/problemset/problem/1365/A)|1100|
+206|[1365A](http://codeforces.com/problemset/problem/1365/A)|[Matrix Game](http://codeforces.com/problemset/problem/1365/A)|1100|Yes
 207|[651A](http://codeforces.com/problemset/problem/651/A)|[Joysticks](http://codeforces.com/problemset/problem/651/A)|1100|Yes
 208|[719A](http://codeforces.com/problemset/problem/719/A)|[Vitya in the Countryside](http://codeforces.com/problemset/problem/719/A)|1100|Yes
 209|[675A](http://codeforces.com/problemset/problem/675/A)|[Infinite Sequence](http://codeforces.com/problemset/problem/675/A)|1100|Yes
-210|[1293A](http://codeforces.com/problemset/problem/1293/A)|[ConneR and the A.R.C. Markland-N](http://codeforces.com/problemset/problem/1293/A)|1100|
+210|[1293A](http://codeforces.com/problemset/problem/1293/A)|[ConneR and the A.R.C. Markland-N](http://codeforces.com/problemset/problem/1293/A)|1100|Yes
 211|[682A](http://codeforces.com/problemset/problem/682/A)|[Alyona and Numbers](http://codeforces.com/problemset/problem/682/A)|1100|Yes
-212|[1263A](http://codeforces.com/problemset/problem/1263/A)|[Sweet Problem](http://codeforces.com/problemset/problem/1263/A)|1100|
+212|[1263A](http://codeforces.com/problemset/problem/1263/A)|[Sweet Problem](http://codeforces.com/problemset/problem/1263/A)|1100|Yes
 213|[767A](http://codeforces.com/problemset/problem/767/A)|[Snacktower](http://codeforces.com/problemset/problem/767/A)|1100|
 214|[714A](http://codeforces.com/problemset/problem/714/A)|[Meeting of Old Friends](http://codeforces.com/problemset/problem/714/A)|1100|
 215|[877A](http://codeforces.com/problemset/problem/877/A)|[Alex and broken contest](http://codeforces.com/problemset/problem/877/A)|1100|
